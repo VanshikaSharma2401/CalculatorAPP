@@ -1,0 +1,15 @@
+.calculator{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.calRow{
+    display: flex;
+    gap: 5px;
+}
+.btn{
+    width: 50px;
+    height: 50px;
+}
